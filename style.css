@@ -1,0 +1,43 @@
+body {
+  background: rgb(187, 187, 187);
+}
+header {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  background: white;
+}
+.block1 {
+  margin: auto;
+  width: 400px;
+  margin-top: 120px;
+}
+.top {
+  height: 50px;
+  background: white;
+  margin-top: 4px;
+}
+.picture-header {
+  display: inline-block;
+  margin-right: 180px;
+  margin-left: 10px;
+  color: rgb(87, 87, 87);
+}
+
+.picture-date {
+  display: inline-block;
+  color: rgb(87, 87, 87);
+}
+.img1 {
+  display: block;
+  margin: auto;
+  width: 400px;
+}
+.picture-footer {
+  margin: auto;
+  background: white;
+  width: 400px;
+  padding-top: 1px;
+  padding-bottom: 2px;
+  color: rgb(87, 87, 87);
+}
